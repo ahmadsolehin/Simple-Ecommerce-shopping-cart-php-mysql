@@ -2,6 +2,5 @@
 
 # Simple algorithm
 
-<li>
-<p>vgdg</p>
-</li>
+<li>Use a session for add to cart</li>
+<li>Javascript to remove item from list</li>
